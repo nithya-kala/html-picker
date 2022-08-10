@@ -2,7 +2,7 @@
   "name": "html-picker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "homepage": "https://nithya-kala.github.io/html-picker",
   "repository": "github:nithya-kala/html-picker",
   "scripts": {
