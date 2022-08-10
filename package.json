@@ -1,9 +1,8 @@
 {
   "name": "html-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
-  "homepage": "https://nithya-kala.github.io/html-picker",
   "repository": "github:nithya-kala/html-picker",
   "scripts": {
     "start": "esbuild sample/sample.ts --servedir=sample --outdir=sample/js --bundle --format=esm",
