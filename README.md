@@ -22,3 +22,5 @@ const picker = new htmlPicker(onHover, onClick);
 picker.start();
 picker.stop();
 ```
+
+See the [sample](sample/)  directory for a complete example of how to use the library.
