@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "noImplicitAny": true,
+      "target": "es6",
+      "sourceMap": false,
+      "module": "ES6",
+      "declaration": true,
+      "outDir": "./dist"
+    },
+    "include": ["./src/index.ts"],
+    "exclude": ["node_modules"]
+  }

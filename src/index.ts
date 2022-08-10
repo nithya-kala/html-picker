@@ -1,9 +1,9 @@
-import { ElOverlay, getElementBounds } from "./elementOverlay2";
+import { ElOverlay, getElementBounds } from "./ElementOverlay";
 
 type Callback = (node: HTMLElement) => void;
 
-export function nodePicker(onHover: Callback, onClick: Callback) {
-  let overlay = ElOverlay();
+export function htmlPicker(onHover: Callback, onClick: Callback) {
+  let overlay = new ElOverlay();
   let active: boolean = false;
   let target: HTMLElement | undefined;
 

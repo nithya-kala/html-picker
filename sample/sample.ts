@@ -1,4 +1,4 @@
-import { nodePicker } from "../src/nodePicker";
+import { htmlPicker } from "../src/index";
 
 function main() {
   const status = document.getElementById("status");
@@ -27,7 +27,7 @@ function main() {
     console.log(node);
   };
 
-  const picker = nodePicker(onHover, onClick);
+  const picker = htmlPicker(onHover, onClick);
 
   const start = () => {
     // @ts-ignore
