@@ -24,3 +24,7 @@ picker.stop();
 ```
 
 See the [sample](sample/)  directory for a complete example of how to use the library.
+
+## Stackblitz example
+
+https://stackblitz.com/edit/vitejs-vite-j5x73d
