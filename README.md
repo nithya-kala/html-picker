@@ -1,4 +1,4 @@
-# node-picker
+# html-picker
 
 It's a JavaScript library for interactively picking the DOM elements.
 
