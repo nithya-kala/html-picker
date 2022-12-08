@@ -2,8 +2,6 @@
 
 It's a JavaScript library for interactively picking the DOM elements.
 
-[![npm version](https://badge.fury.io/js/pick-dom-element.svg)](https://badge.fury.io/js/pick-dom-element)
-
 ## Install
 
 ```npm install --save html-picker```
